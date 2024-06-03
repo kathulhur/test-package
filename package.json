@@ -1,8 +1,11 @@
 {
-  "name": "test-package",
+  "name": "@kathulhur/test-package",
   "version": "1.0.0",
   "description": "a test package",
   "main": "index.js",
+  "repository": {
+    "url": "https://github.com/kathulhur/test-package.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
